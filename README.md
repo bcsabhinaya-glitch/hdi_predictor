@@ -37,3 +37,4 @@ HDI-Prediction/
 ## Author
 Developed as part of the SkillWallet Artificial Intelligence Internship Project.
 https://drive.google.com/file/d/1Zqq07CN31tl3wsg5H_7amUhWF_wlogTH/view?usp=drivesdk
+https://hdi-predictor-websit-gprv.bolt.host
